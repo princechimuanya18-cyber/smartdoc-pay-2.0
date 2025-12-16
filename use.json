@@ -1,0 +1,26 @@
+{
+    "user": [
+        {
+            "username": "dprincee",
+            "password": "123prince",
+            "pin": "2000",
+            "balance": 0,
+            "smart_balance": 0,
+            "history": []
+        },
+        {
+            "username": "fred",
+            "password": "fred123",
+            "pin": "2002",
+            "balance": 2500,
+            "smart_balance": 250.0,
+            "history": [
+                {
+                    "type": "payment",
+                    "amount": 2500,
+                    "saved": 250.0
+                }
+            ]
+        }
+    ]
+}
